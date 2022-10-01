@@ -1,0 +1,1 @@
+https://github.com/joelittlejohn/jsonschema2pojo
